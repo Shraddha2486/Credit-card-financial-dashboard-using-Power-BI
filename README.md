@@ -74,5 +74,8 @@
 - **New Date Parsing Issue Fixed**: `Week_Start_Date` formatting was resolved using **locale-specific conversion** in Power Query 
 
 ---
+## Preview 
+![Screenshot1](https://github.com/user-attachments/assets/7110cc71-52e5-426d-90fb-b13ada267f76)
+![Screenshot2](https://github.com/user-attachments/assets/0adac258-86f2-4e97-ba5e-5d905abda90b)
 
 📌 *This project demonstrates end-to-end analytics: from SQL-based data import, Power BI data modeling, DAX calculation, visualization, and insight generation.*
